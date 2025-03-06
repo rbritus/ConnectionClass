@@ -43,7 +43,7 @@ end;
 Nos usos onde é necessário abrir e fechar uma conxão ao banco (casos como api's em Horse) pode-se utilizar os seguintes métodos:
 -  class procedure ConexaoSolitaria(AProc: TProc<TConexao>);
 -  class procedure ConexaoSolitariaDePersistencia(AProc: TProc<TConexao>);
--  
+  
 A partir destes dois métodos os comandos da classe de conexão passam a ser visíveis.
   
 Ex:
