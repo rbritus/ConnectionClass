@@ -4,7 +4,8 @@ Componente de conexão multibanco
 De início é necessário configura o arquivo App.ini existente no diretório "ConnectionClass\src\" do projeto.
 Este arquivo define os parâmetros de conexão ao banco, exemplo do arquivo:
 
-```[Conexao]
+```
+[Conexao]
 driver=SQLITE
 database=..\BANCO.FDB
 username=SYSDBA
