@@ -1,3 +1,9 @@
+## ⚙️ Installation
+A instalação é feita usando o commando [`boss install`](https://github.com/HashLoad/boss):
+``` sh
+boss install https://github.com/rbritus/ConnectionClass
+```
+
 # ConnectionClass
 Componente de conexão multibanco
 
@@ -72,5 +78,6 @@ begin
       Res.Send(retorno);
     end
   );
+  THorse.Listen(9000);
 end.
 ```
