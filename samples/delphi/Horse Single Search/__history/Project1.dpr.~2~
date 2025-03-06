@@ -1,0 +1,19 @@
+program Project1;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  Horse,
+  System.SysUtils;
+
+begin
+
+
+  THorse.Listen(9000,
+    procedure
+    begin
+      Writeln('Servidor rodando na porta: ' + THorse.Port.ToString);
+    end
+  );

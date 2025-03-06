@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/05 17:13:29.000.094,=C:\Users\rbrit\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/06 00:47:44.000.633,C:\Users\rbrit\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\ConnectionClass\samples\delphi\Horse Single Search\Project1.dproj</Transaction>
+    <Transaction>2025/03/06 00:51:07.000.573,=C:\Projetos\ConnectionClass\src\Connection\Conexao.unConection.pas</Transaction>
+    <Transaction>2025/03/06 00:51:21.000.380,=C:\Projetos\ConnectionClass\src\Interfaces\Interfaces.Conexao.pas</Transaction>
+    <Transaction>2025/03/06 00:51:31.000.200,=C:\Projetos\ConnectionClass\src\Models\Conexao.Firebird.pas</Transaction>
+    <Transaction>2025/03/06 00:51:31.000.280,=C:\Projetos\ConnectionClass\src\Models\Conexao.MySql.pas</Transaction>
+    <Transaction>2025/03/06 00:51:31.000.331,=C:\Projetos\ConnectionClass\src\Models\Conexao.Padrao.pas</Transaction>
+    <Transaction>2025/03/06 00:51:31.000.375,=C:\Projetos\ConnectionClass\src\Models\Conexao.SqLite.pas</Transaction>
+  </Transactions>
+</BorlandProject>
